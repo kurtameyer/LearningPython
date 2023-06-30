@@ -1,0 +1,1 @@
+This repo is a collection of scripts I wrote as I was learning Python. I am providing access to illustrative basic proficiency with OOP, algorithms, Pandas, and Numpy as well as basic visualization libraries. 
